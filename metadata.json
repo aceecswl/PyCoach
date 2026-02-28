@@ -1,0 +1,5 @@
+{
+  "name": "PyCoach",
+  "description": "An interactive Python learning platform with AI-powered tutoring, code analysis, and conversational practice.",
+  "requestFramePermissions": ["microphone"]
+}
